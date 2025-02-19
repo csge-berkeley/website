@@ -1,0 +1,216 @@
+- name: Tyler Griggs
+  c_affil: ucb
+  c_cate: officer
+  c_role: President
+  pic_url: static/img/officers/tyler.png
+
+- name: Tianrui Wei
+  c_affil: ucb
+  c_cate: officer
+  c_role: Finance Chair
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Jiwon Park
+  c_affil: ucb
+  c_cate: officer
+  c_role: Socials Chair
+  pic_url: static/img/officers/jiwon.JPG
+
+- name: Rose Niousha
+  c_affil: ucb
+  c_cate: officer
+  c_role: Socials Chair
+  pic_url: static/img/officers/rose.jpeg
+
+- name: Karim Elmaaroufi
+  c_affil: ucb
+  c_cate: officer
+  c_role: Socials Chair
+  pic_url: static/img/officers/karim.jpeg
+
+- name: Wei Foo
+  c_affil: ucb
+  c_cate: officer
+  c_role: Seminar Chair
+  pic_url: static/img/officers/wei.png
+
+- name: Melissa Pan
+  c_affil: ucb
+  c_cate: officer
+  c_role: Seminar Chair
+  pic_url: static/img/officers/melissa.jpg
+
+- name: Parth Asawa
+  c_affil: ucb
+  c_cate: officer
+  c_role: Seminar Chair
+  pic_url: static/img/officers/parth.jpg
+
+- name: Jiaxin Ge
+  c_affil: ucb
+  c_cate: officer
+  c_role: General Officer
+  pic_url: static/img/officers/jiaxin.jpg
+
+- name: Shadaj Laddad
+  c_affil: ucb
+  c_cate: officer
+  c_role: Advisor
+  pic_url: static/img/officers/shadaj.jpg
+
+- name: Vivian Fang
+  c_affil: ucb
+  c_cate: officer
+  c_role: Advisor
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Sarah Wooders
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Co-President
+  pic_url: static/img/officers/sarah.png
+
+- name: Utkarsha Agwan
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Co-President
+  pic_url: static/img/officers/utkarsha.png
+
+- name: Shishir Patil
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Advisor
+  pic_url: static/img/officers/shishir.jpeg
+
+- name: Charles Packer
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Advisor
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Silvery Fu
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Administrator
+  pic_url: static/img/officers/silvery.jpg
+  homepage: https://people.eecs.berkeley.edu/~silvery/
+
+- name: Marius Wiggert
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Seminar Chair
+  pic_url: static/img/officers/marius.png
+
+- name: Paras Jain
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Seminar Chair
+  pic_url: static/img/officers/paras.jpg
+
+- name: Tanmay Gautam
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Seminar Chair
+  pic_url: static/img/officers/no_image.jpg
+
+- name: J.D. Zamfirescu
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Seminar Chair
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Jessy Lin
+  c_affil: ucb
+  c_cate: alumni
+  c_role: General Officer
+  pic_url: static/img/officers/jessy.png
+
+- name: John Dagdelen
+  c_affil: ucb
+  c_cate: alumni
+  c_role: General Officer
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Karl Krauth
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Co-president
+  pic_url: static/img/officers/karl.png
+
+- name: Alyssa Morrow
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Co-president
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Peter Schafhalter
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Treasurer
+  pic_url: static/img/officers/peter.png
+
+- name: Chloe Hsu
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Seminar Chair
+  pic_url: static/img/officers/chloe.png
+
+- name: Justin Wong
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Seminar Chair
+  pic_url: static/img/officers/justin.png
+
+- name: Colorado Reed
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Senior Officer
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Sean Arietta
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Senior Officer
+  pic_url: static/img/officers/no_image.jpg
+
+- name: David Schinazi
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Senior Officer
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Sergey Karayev
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Senior Officer
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Sarah Bird
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Senior Officer
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Ariel Kleiner
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Senior Officer
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Andy Konwinski
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Senior Officer
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Andrew Krioukov
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Senior Officer
+  pic_url: static/img/officers/no_image.jpg
+
+- name: Reynold Xin
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Senior Officer
+  pic_url: static/img/officers/no_image.jpg

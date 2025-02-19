@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+gem 'jekyll'
+gem 'rake'
+gem 'puma'
+gem 'rouge'
+gem 'rack-contrib'
+gem 'rack-rewrite'
+gem 'jekyll-paginate'

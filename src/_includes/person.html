@@ -1,0 +1,16 @@
+<div class="col-md-2 col-xs-6 person" align="center">
+    {% if include.person.homepage %}
+        <a href="{{ person.homepage }}">
+    {% endif %}
+    <div class="img-thumbnail people-pic-wrapper {{ include.person.c_before }}">
+      <img class="people-pic" src="../{{ include.person.pic_url }}" alt="">
+    </div>
+    <p align="center">{{ include.person.name }}
+    {% if include.person.homepage %}</a>{% endif %}
+    <br>
+        {{ include.person.c_role }}
+    </p>
+
+</div>
+
+

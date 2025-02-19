@@ -1,0 +1,36 @@
+- title: "Lessons learned from Gradescope and Covariant"
+  date: 2021-08-27, 2pm PST
+  speaker: Pieter Abbeel
+  location: Virtual
+  desc: >
+    Gradescope and Covariant are two successful start-ups Pieter co-founded together with his students. Gradescope (which you surely know from classes) got acquired 2018 and Covariant is building robots for the real world and recently closed their $ 80 Million Series C funding round for that. He also mentored many more PhD students who started companies after their PhDs. Pieter Abbeel is Professor and Director of the Robot Learning Lab at UC Berkeley [2008- ], Co-Director of the Berkeley AI Research (BAIR) Lab, Co-Founder of covariant.ai [2017- ], Co-Founder of Gradescope [2014- ], Advisor to OpenAI, Founding Faculty Partner AI@TheHouse venture fund, Advisor to many AI/Robotics start-ups. He works in machine learning and robotics. In particular his research focuses on making robots learn from people (apprenticeship learning), how to make robots learn through their own trial and error (reinforcement learning), and how to speed up skill acquisition through learning-to-learn (meta-learning). His robots have learned advanced helicopter aerobatics, knot-tying, basic assembly, organizing laundry, locomotion, and vision-based robotic manipulation. He has won numerous awards, including best paper awards at ICML, NIPS and ICRA, early career awards from NSF, Darpa, ONR, AFOSR, Sloan, TR35, IEEE, and the Presidential Early Career Award for Scientists and Engineers (PECASE). Pieter's work is frequently featured in the popular press, including New York Times, BBC, Bloomberg, Wall Street Journal, Wired, Forbes, Tech Review, NPR.
+- title: "The leap from academia to industry: Building a company to hack the genome"
+  date: 2021-09-30, 1pm PST
+  speaker: Rachel Haurwitz
+  location: Virtual and Woz Lounge (Soda 430)
+  desc: >
+    Rachel Haurwitz, Ph.D. is the president and CEO of Caribou Biosciences (NASDAQ:CRBU), a CRISPR genome editing company she co-founded as a graduate student at UC Berkeley. Caribou is developing genome-edited, off-the-shelf immune cell therapies for the treatment of cancer, and its lead product candidate is in an ongoing phase 1 clinical trial. Rachel will discuss her journey from the lab bench as a graduate student in Jennifer Doudna’s lab to CEO of a publicly traded biotech company as well as the future of genome editing.
+- title: "Transitioning from Academia to Building a Business"
+  date: 2021-10-29, 3pm PST
+  speaker: Mayur Mudigonda
+  location: Soda 380
+  desc: >
+    Mayur Mudigonda, Ph.D. is the co-founder and CEO of Vayuh.ai, an early stage company focused on climate change and AI.  Mayur will talk about his personal experiences and challenges in building a technology company. The talk will be informal and interactive in nature with opportunities to ask many questions. Mayur has a background in Artificial Intelligence, Neuroscience and Climate Science. He got his PhD from UC Berkeley in Vision Sciences and spent many fond hours at SDH and The Redwood Center for Theoretical Neuroscience. He also spent time at the Berkeley National Lab working on applying AI to problems in Climate Sciences. His work at LBL helped win the Gordon Bell supercomputing prize in 2018. Prior to his Ph.D., Mayur worked at Blindsight (acquired by A9), a Berkeley startup that worked on applying computer vision to help people with low vision. Mayur is also a co-investigator at the Sadhguru Center for a Conscious Planet (Harvard Medical School) exploring the relationship between meditation and neuroscience. When he is not building Vayuh, he loves helping people take up a meditative practice.
+- title: "BioAge: A clinical-stage biotechnology company developing therapies to increase healthspan and lifespan"
+  date: 2021-05-19, 3pm PST
+  speaker: Kristen Fortney
+  location: Virtual
+  desc: >
+    Kristen leads BIOAGE in its mission to develop a broad pipeline of therapies that target aging in order to increase healthspan and address chronic diseases. Kristen draws from a deep background in aging research and systems biology to develop BIOAGE’s data-driven approach to identify and target the molecular pathways that drive aging. Kristen received her PhD in Medical Biophysics from the University of Toronto, followed by postdoctoral training at Stanford University where she was a fellow of the Ellison Medical Foundation / American Federation for Aging Research. She has over 10 years of experience developing novel bioinformatics approaches for data-driven investigation into the mechanisms of aging and age-related disease, with 18 published papers spanning computational drug discovery, biomarkers of aging, and the genetics of exceptional human longevity.
+- title: "The Startup Journey of Lytro"
+  date: 2021-04-16, 2pm PST
+  speaker: Ren Ng
+  location: Virtual
+  desc: >
+    Ren Ng was the founder CEO of Lytro, which commercialized his PhD research and brought light field cameras to market. He led the company through three rounds of financing, seventy employees and shipping cameras worldwide, before returning to academia on the faculty at Cal. This talk will give a photo overview of his startup journey, with plenty of time for Q&A. 
+- title: "From Ray to Anyscale"
+  date: 2021-03-18, 1pm PST
+  speaker: Robert Nishihara
+  location: Virtual
+  desc: >
+    Robert Nishihara is one of the creators of the Ray, a distributed system for scaling Python applications to clusters. He is one of the co-founders and CEO of Anyscale, which is the company behind Ray. He did his PhD in machine learning and distributed systems in the computer science department at UC Berkeley (in the RISELab and BAIR). Before that, he majored in math at Harvard.

@@ -1,0 +1,46 @@
+---
+layout: default
+title: People
+---
+
+{% assign people = site.data.people | sort: 'name' %}
+<div class="row">
+
+<!--     <div class="col-md-12">
+        <a class="btn btn-primary" href="#staff" role="button">Officer</a>
+    </div> -->
+
+    <h2 id="faculty" class="col-md-12">Officer</h2>
+    <div class="container-fluid">
+    <div class="row">
+    {% for person in site.data.people %}
+        {% if person.c_cate == "officer" %}
+            {% assign m = fidx | modulo: 6 %}
+            {% if m == 0 %}
+                </div>
+                <div class="row">
+            {% endif %}
+            {% include person.html person=person %}
+            {% capture v %}{% increment fidx %}{% endcapture %}
+        {% endif %}
+    {% endfor %}
+    </div>
+    </div>
+
+    <h2 id="faculty" class="col-md-12">Alumni</h2>
+    <div class="container-fluid">
+    <div class="row">
+    {% for person in site.data.people %}
+        {% if person.c_cate == "alumni" %}
+            {% assign m = fidy | modulo: 6 %}
+            {% if m == 0 %}
+                </div>
+                <div class="row">
+            {% endif %}
+            {% include person.html person=person %}
+            {% capture v %}{% increment fidy %}{% endcapture %}
+        {% endif %}
+    {% endfor %}
+    </div>
+    </div>
+</div>
