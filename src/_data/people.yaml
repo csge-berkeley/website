@@ -3,67 +3,78 @@
   c_cate: officer
   c_role: President
   pic_url: static/img/officers/tyler.png
+  website: "https://tyler-griggs.github.io/blogs/"
 
 - name: Tianrui Wei
   c_affil: ucb
   c_cate: officer
   c_role: Finance Chair
   pic_url: static/img/officers/no_image.jpg
-
+  website: "https://www.linkedin.com/in/tianruiwei/"
+  
 - name: Jiwon Park
   c_affil: ucb
   c_cate: officer
   c_role: Socials Chair
   pic_url: static/img/officers/jiwon.JPG
+  website: "https://www.linkedin.com/in/jiwonparc/"
 
 - name: Rose Niousha
   c_affil: ucb
   c_cate: officer
   c_role: Socials Chair
   pic_url: static/img/officers/rose.jpeg
+  website: "https://www.linkedin.com/in/rose-niousha/"
 
 - name: Karim Elmaaroufi
   c_affil: ucb
   c_cate: officer
   c_role: Socials Chair
   pic_url: static/img/officers/karim.jpeg
+  website: "https://kael.tech.blog/"
 
 - name: Wei Foo
   c_affil: ucb
   c_cate: officer
   c_role: Seminar Chair
   pic_url: static/img/officers/wei.png
+  website: "https://www.linkedin.com/in/wei-foo/"
 
 - name: Melissa Pan
   c_affil: ucb
   c_cate: officer
   c_role: Seminar Chair
   pic_url: static/img/officers/melissa.jpg
+  website: "https://melissa-pan.github.io/"
 
 - name: Parth Asawa
   c_affil: ucb
   c_cate: officer
   c_role: Seminar Chair
   pic_url: static/img/officers/parth.jpg
-
+  website: "https://pgasawa.github.io/"
+  
 - name: Jiaxin Ge
   c_affil: ucb
   c_cate: officer
-  c_role: General Officer
+  c_role: Socials Chair
   pic_url: static/img/officers/jiaxin.jpg
-
+  website: "https://jiaxin.ge/"
+  
 - name: Shadaj Laddad
   c_affil: ucb
   c_cate: officer
   c_role: Advisor
   pic_url: static/img/officers/shadaj.jpg
+  website: "https://www.shadaj.me/"
 
 - name: Vivian Fang
   c_affil: ucb
   c_cate: officer
   c_role: Advisor
   pic_url: static/img/officers/no_image.jpg
-
+  website: "https://www.vivi.sh/"
+  
 - name: Sarah Wooders
   c_affil: ucb
   c_cate: alumni
