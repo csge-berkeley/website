@@ -1,18 +1,15 @@
 <div class="col-md-2 col-xs-6 person" align="center">
-    {% if include.person.homepage %}
-        <a href="{{ include.person.homepage }}">
+  <div class="img-thumbnail people-pic-wrapper {{ include.person.c_before }}">
+    <img class="people-pic" src="../{{ include.person.pic_url }}" alt="">
+  </div>
+  <p align="center">
+    {% if include.person.website %}
+      <a href="{{ include.person.website }}" target="_blank">{{ include.person.name }}</a>
+    {% else %}
+      {{ include.person.name }}
     {% endif %}
-    <div class="img-thumbnail people-pic-wrapper {{ include.person.c_before }}">
-      <img class="people-pic" src="../{{ include.person.pic_url }}" alt="">
-    </div>
-    {% if include.person.homepage %}</a>{% endif %}
-    <p align="center">
-      {{ include.person.name }}<br>
-      {{ include.person.c_role }}
-      {% if include.person.website %}
-        <br><a href="{{ include.person.website }}" target="_blank">Personal Website</a>
-      {% endif %}
-    </p>
+    <br>
+    {{ include.person.c_role }}
+  </p>
 </div>
-
 
