@@ -61,19 +61,47 @@
   pic_url: static/img/officers/jiaxin.jpg
   website: "https://jiaxin.ge/"
   
-- name: Shadaj Laddad
+- name: Charlie Ruan
   c_affil: ucb
   c_cate: officer
-  c_role: Advisor
-  pic_url: static/img/officers/shadaj.jpg
-  website: "https://www.shadaj.me/"
-
-- name: Vivian Fang
+  c_role: Officer
+  pic_url: static/img/officers/charlie.jpg
+  website: "https://www.charlieruan.com"
+  
+- name: Negin Raoof
   c_affil: ucb
   c_cate: officer
-  c_role: Advisor
-  pic_url: static/img/officers/no_image.jpg
-  website: "https://www.vivi.sh/"
+  c_role: Officer
+  pic_url: static/img/officers/negin.png
+  website: "https://neginraoof.com"
+  
+- name: Shubham Agrawal
+  c_affil: ucb
+  c_cate: officer
+  c_role: Officer
+  pic_url: static/img/officers/shubham.jpg
+  website: "https://skejriwal44.github.io/"
+  
+- name: Alex Krentsel
+  c_affil: ucb
+  c_cate: officer
+  c_role: Officer
+  pic_url: static/img/officers/alex.jpg
+  website: "https://www.krentsel.com"
+  
+- name: Mir Miroyan
+  c_affil: ucb
+  c_cate: officer
+  c_role: Officer
+  pic_url: static/img/officers/mir.jpg
+  website: "https://www.mir-miroyan.com"
+  
+- name: Haozhe Jiang
+  c_affil: ucb
+  c_cate: officer
+  c_role: Officer
+  pic_url: static/img/officers/haozhe.jpeg
+  website: "https://astro-eric.github.io"
   
 - name: Sarah Wooders
   c_affil: ucb
@@ -98,6 +126,20 @@
   c_cate: alumni
   c_role: Advisor
   pic_url: static/img/officers/no_image.jpg
+
+- name: Shadaj Laddad
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Advisor
+  pic_url: static/img/officers/shadaj.jpg
+  website: "https://www.shadaj.me/"
+
+- name: Vivian Fang
+  c_affil: ucb
+  c_cate: alumni
+  c_role: Advisor
+  pic_url: static/img/officers/no_image.jpg
+  website: "https://www.vivi.sh/"
 
 - name: Silvery Fu
   c_affil: ucb
